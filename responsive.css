@@ -1,0 +1,170 @@
+/* table layout-768px */
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+
+  .bottom_heading_section ul li{
+
+    font-size: 12px
+} 
+
+
+
+.bottom_heading_section .navbar-brand img{
+   height: 60px;
+   width:180px
+}
+
+
+.services .services_part span{
+      font-size: 70px;
+     
+}
+
+
+.our_products .button-group{
+	display: block;
+}
+
+.why_choose_us{
+	height: 980px;
+	
+}
+
+.why_choose_us .why_c_box{
+	top: 200px;
+}
+
+.planning_project p{
+       padding-top: 50px;
+ }
+
+
+
+}
+
+/* mobile layout-320px */
+@media screen and (max-width: 767px){
+	.top_heading_section .top_icon{
+	padding-left:26%;
+	padding-top: 10px;
+	width: 100%;
+	margin: 0 auto;
+
+	
+}
+.top_heading_section .top_icon_beside ul li{
+  display: none;
+}
+
+
+
+
+
+ .services .services_part span{
+      font-size: 70px;
+  
+}
+
+.our_products .button-group{
+	display: none
+}
+
+.why_choose_us{
+	height: 1980px;
+	
+}
+
+.why_choose_us .why_fst{
+	height: 250px;
+	position: relative;
+}
+
+.why_choose_us .why_c_box{
+	width: 95%;
+	top:50px;
+}
+
+.flws_icon{
+ 	font-size: 60px
+ }
+
+ .planning_project h1{
+       font-size: 30px;
+       color: #fff
+ }
+ .planning_project p{
+       font-size: 16px;
+       color: #F8C320;
+ }
+
+
+	
+}
+/* wide mobile layout-480px */
+@media screen and (min-width: 480px) and (max-width: 767px){
+		.top_heading_section .top_icon{
+	padding-left:30%;
+	padding-top: 10px;
+	width: 100%;
+	margin: 0 auto;
+	
+	
+}
+.top_heading_section .top_icon_beside ul li{
+  display: none;
+}
+
+
+  .services .services_part span{
+      font-size: 70px;
+      
+}
+
+.our_products .button-group{
+	display: none
+}
+
+.why_choose_us{
+	height: 1880px;
+
+	
+}
+
+
+}
+
+
+/* iphone 4+/pixel-ragio-2 */
+@media screen and (min-width: 768px) and (max-width: 991px){
+		.top_heading_section .top_icon{
+	padding-left:30%;
+	padding-top: 10px;
+	width: 100%;
+	margin: 0 auto;
+	
+	
+}
+.top_heading_section .top_icon_beside ul li{
+  display: none;
+}
+
+
+  .services .services_part span{
+      font-size: 70px;
+      
+}
+
+.our_products .button-group{
+	display: none
+}
+
+.why_choose_us{
+	height: 1880px;
+
+	
+}
+
+
+}
+
+}
